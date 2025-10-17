@@ -10,13 +10,13 @@ Teknologi yang Digunakan
 ------------------------
 
 #Backend:
-- **Laravel 11**
+- **Laravel 9.52.21**
 - **MySQL**
 - **Laravel Passport / Sanctum (JWT Auth)**
 - **Eloquent ORM**
 
 #Frontend:
-- **React 18 (Vite)**
+- **React 19.2.0 (Vite)**
 - **Tailwind CSS**
 - **Fetch API**
 - **React Hooks**
@@ -57,7 +57,7 @@ CREATE TABLE tasks (
 
 
 ---------------------------------------------
-Backend - Task Management System (Laravel 11)
+Backend - Task Management System (Laravel 9.52.21)
 ---------------------------------------------
 
 Backend untuk aplikasi Task Management menggunakan Laravel 11 dan JWT Authentication.  
@@ -104,7 +104,7 @@ Berfungsi untuk menangani autentikasi user serta operasi CRUD task.
   http://127.0.0.1:8000
 
 -------------------------------------------------
-Frontend - Task Management System React 18 (Vite)
+Frontend - Task Management System React 19.2.0 (Vite)
 -------------------------------------------------
 
 Frontend dari aplikasi Task Management yang dibangun dengan React.js (Vite) dan Tailwind CSS.  
