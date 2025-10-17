@@ -28,7 +28,7 @@ CREATE TABLE tasks (
 
 
 ---------------------------------------------
-Backend - Task Management System (Laravel 11)
+Backend - Task Management System (Laravel 9.52.21)
 ---------------------------------------------
 
 Backend untuk aplikasi Task Management menggunakan Laravel 11 dan JWT Authentication.  
