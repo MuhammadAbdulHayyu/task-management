@@ -1,6 +1,6 @@
 
 -------------------------------------------------
-Frontend - Task Management System React 18 (Vite)
+Frontend - Task Management System React 19.2.0 (Vite)
 -------------------------------------------------
 
 Frontend dari aplikasi Task Management yang dibangun dengan React.js (Vite) dan Tailwind CSS.  
